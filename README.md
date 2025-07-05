@@ -1,6 +1,6 @@
 # img2gif
 
-A simple Python desktop application that converts multiple images into an animated GIF using **Tkinter** and **Pillow**.
+Python desktop application that converts multiple images into an animated GIF using **Tkinter**.
 
 ![img2gif preview](img/app.png) 
 
