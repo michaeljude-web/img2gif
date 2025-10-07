@@ -4,7 +4,6 @@ Python desktop application that converts multiple images into an animated GIF us
 
 ![img2gif preview](img/app.png) 
 
----
 
 ## Features
 
@@ -14,14 +13,3 @@ Python desktop application that converts multiple images into an animated GIF us
 - Clear the list anytime
 - Save the final animated `.gif` file
 
----
-
-## Requirements
-
-- Python 3.x
-- Pillow
-
-Install dependencies:
-
-```bash
-pip install Pillow
